@@ -1,0 +1,9 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.rental-card {
+    transition: transform 0.3s;
+}
+.rental-card:hover {
+    transform: scale(1.05);
+}
